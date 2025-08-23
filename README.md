@@ -1,3 +1,6 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 # 👋 Hi, I'm Hoang Dinh Phuc!
 
 I'm a Java developer on a mission to become a full-stack developer by 2025, with React as my go-to frontend framework. I enjoy building scalable, maintainable systems and continuously sharpening my skills to stay ahead in the tech game.
